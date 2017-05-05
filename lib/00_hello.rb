@@ -4,7 +4,7 @@
 # to test your code with rspec.
 
 def hello
-  "oh hey there"
+  "oh hey there dog"
 end
 
 def greet(someone)
